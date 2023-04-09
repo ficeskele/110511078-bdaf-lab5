@@ -27,7 +27,7 @@
 8. Mint 10000 of your tokens by using your Safe multiSig address to your own address **(Record the transaction)**
 9. Sell all of the 10000 tokens into the Uniswap pool you created. **(Record the transaction)**
 
-
+---
 
 Etherscan link to your token*
 
